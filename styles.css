@@ -338,7 +338,7 @@ Images : Hover
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align:center;
   }
 
 
@@ -373,6 +373,7 @@ Images : Hover
 
 .description-textes h1 {
     margin: 5% 5% 5% 0; 
+    font-size: 2rem;
 }
 
 .description-textes p {
@@ -461,10 +462,10 @@ Images : Hover
 
 .content {
     min-height: 90vh; 
-    max-width: 40%; 
+    max-width: 60%; 
     margin: auto; 
     text-align: center;
-    padding-top: 15vh; 
+    padding-top: 2vh; 
 }
 
 .content a {
